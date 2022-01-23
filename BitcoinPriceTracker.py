@@ -19,5 +19,5 @@ while True:
         fileCount += 1
         count = 0
     if fileCount == maxFileCount:
-        break  # test
+        break
     time.sleep(60)
