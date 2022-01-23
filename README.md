@@ -1,0 +1,2 @@
+# BitcoinPriceTracker
+This is a simple bot that tracks Bitcoins price continually (using Coindesk's API) and records the results in a file. This file then, over time, becomes a record that can be used to apply data science techniques on to find patterns. This isn't necessarily anything particularly new or interesting, but mostly a simple bot for me to run on an old Android phone I found laying around.
